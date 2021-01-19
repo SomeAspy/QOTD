@@ -1,2 +1,1 @@
-# SimpleWebPage
-I use this template for stuff
+Pretty useless thing, Not gonna lie.
